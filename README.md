@@ -3,7 +3,7 @@
 i'm dani – welcome to my profile! 🌻
 
 ### about me 🖋️
-i'm a 2nd-ish year cs student at Universidade da Coruña.
+i'm a 3rd-ish year cs student at Universidade da Coruña.
 
 i’ve been curious about computers since i was a kid and wrote my first lines of code around age 12.  
 
